@@ -1,7 +1,3 @@
-from cgi import print_environ
-from os import link
-
-
 class ListNode(object):
     def __init__(self, value, next=None):
         self.value = value
